@@ -4,36 +4,40 @@
     "url": "https://saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/saizaax.dev.ico",
     "slug": "saizaax-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 755,
     "timeDay": 903,
     "timeWeek": 766,
     "timeMonth": 755,
     "timeYear": 755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 5
+    }
   },
   {
     "name": "uncos.saizaax.dev",
     "url": "https://uncos.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/uncos.saizaax.dev.ico",
     "slug": "uncos-saizaax-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1645,
     "timeDay": 16700,
     "timeWeek": 2999,
     "timeMonth": 1645,
     "timeYear": 1645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 3
+    }
   },
   {
     "name": "pizza.saizaax.dev",
@@ -58,27 +62,29 @@
     "url": "https://xanity.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/xanity.saizaax.dev.ico",
     "slug": "xanity-saizaax-dev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 556,
     "timeDay": 536,
     "timeWeek": 553,
     "timeMonth": 556,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 2
+    }
   },
   {
     "name": "schedule.saizaax.dev",
     "url": "https://schedule.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/schedule.saizaax.dev.ico",
     "slug": "schedule-saizaax-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +93,9 @@
     "timeWeek": 551,
     "timeMonth": 566,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   },
   {
     "name": "docstorage.saizaax.dev",
