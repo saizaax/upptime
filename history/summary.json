@@ -40,10 +40,10 @@
     "url": "https://pizza.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/pizza.saizaax.dev.ico",
     "slug": "pizza-saizaax-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
@@ -51,16 +51,18 @@
     "timeWeek": 617,
     "timeMonth": 641,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-20": 2
+    }
   },
   {
     "name": "xanity.saizaax.dev",
     "url": "https://xanity.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/xanity.saizaax.dev.ico",
     "slug": "xanity-saizaax-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 494,
     "timeMonth": 508,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-20": 0
+    }
   },
   {
     "name": "schedule.saizaax.dev",
