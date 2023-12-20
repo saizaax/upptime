@@ -4,19 +4,19 @@
     "url": "https://saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/saizaax.dev.ico",
     "slug": "saizaax-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 460,
-    "timeWeek": 644,
-    "timeMonth": 677,
-    "timeYear": 922,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 917,
+    "timeDay": 529,
+    "timeWeek": 638,
+    "timeMonth": 674,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-12-20": 1
+      "2023-12-20": 5
     }
   },
   {
