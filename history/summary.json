@@ -40,19 +40,19 @@
     "url": "https://pizza.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/pizza.saizaax.dev.ico",
     "slug": "pizza-saizaax-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 462,
-    "timeWeek": 617,
-    "timeMonth": 641,
-    "timeYear": 781,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 776,
+    "timeDay": 475,
+    "timeWeek": 601,
+    "timeMonth": 636,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2023-12-20": 2
+      "2023-12-20": 21
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://xanity.saizaax.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/xanity.saizaax.dev.ico",
     "slug": "xanity-saizaax-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 369,
-    "timeWeek": 494,
-    "timeMonth": 508,
-    "timeYear": 532,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 529,
+    "timeDay": 377,
+    "timeWeek": 480,
+    "timeMonth": 504,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 19
     }
   },
   {
