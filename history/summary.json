@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/saizaax.dev.ico",
     "slug": "saizaax-dev",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 910,
-    "timeDay": 526,
-    "timeWeek": 625,
-    "timeMonth": 670,
-    "timeYear": 910,
-    "dailyMinutesDown": {
-      "2023-12-20": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 907,
+    "timeDay": 630,
+    "timeWeek": 654,
+    "timeMonth": 664,
+    "timeYear": 907,
+    "dailyMinutesDown": {}
   },
   {
     "name": "uncos.saizaax.dev",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 436,
-    "timeWeek": 503,
-    "timeMonth": 518,
-    "timeYear": 849,
+    "time": 844,
+    "timeDay": 582,
+    "timeWeek": 534,
+    "timeMonth": 517,
+    "timeYear": 844,
     "dailyMinutesDown": {}
   },
   {
@@ -44,17 +42,17 @@
     "slug": "pizza-saizaax-dev",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 772,
-    "timeDay": 503,
-    "timeWeek": 596,
+    "time": 771,
+    "timeDay": 594,
+    "timeWeek": 624,
     "timeMonth": 633,
-    "timeYear": 772,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-12-20": 25
+      "2023-12-20": 21
     }
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 529,
-    "timeDay": 377,
-    "timeWeek": 480,
-    "timeMonth": 504,
-    "timeYear": 529,
+    "time": 531,
+    "timeDay": 496,
+    "timeWeek": 508,
+    "timeMonth": 505,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2023-12-20": 19
     }
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 350,
-    "timeWeek": 490,
+    "time": 540,
+    "timeDay": 601,
+    "timeWeek": 525,
     "timeMonth": 516,
-    "timeYear": 538,
+    "timeYear": 540,
     "dailyMinutesDown": {}
   },
   {
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 571,
-    "timeDay": 398,
-    "timeWeek": 490,
-    "timeMonth": 502,
+    "timeDay": 584,
+    "timeWeek": 516,
+    "timeMonth": 501,
     "timeYear": 571,
     "dailyMinutesDown": {}
   }
